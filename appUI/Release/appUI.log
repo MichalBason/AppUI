@@ -1,0 +1,8 @@
+﻿  appUI.cpp
+  clientSocket.cpp
+  Generating code
+  14 of 26 functions (53.8%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  appUI.vcxproj -> C:\Users\User\source\repos\appUI\Release\appUI.exe
